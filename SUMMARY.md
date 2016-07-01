@@ -5,4 +5,5 @@
    * [nginx主要特点](nginx特点.md)
    * [nginx应用场景](nginx应用场景.md)
 * [nginx安装](chapter1.md)
+   * 基础环境准备
 
