@@ -6,4 +6,5 @@
    * [nginx应用场景](nginx应用场景.md)
 * [nginx安装](chapter1.md)
    * [基础环境准备](基础环境准备.md)
+   * 安装nginx依赖包
 
