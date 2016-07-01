@@ -21,23 +21,6 @@ WWW-Authenticate: Basic realm="nginx basic auth for www.bjstack.com"
 ```
 
 
-
-##nginx特点：
-- 最大特点
--    静态小文件（1M以下），支持高并发，同时占用的资源很少。3w并发，十个进程，内存占用150M
--    配置简单、灵活、轻量
--    高并发（静态小文件），静态几万的并发
--    占用资源少
--    支持epoll模型，使得nginx可以支持高并发，apache使用select模型
--    nginx可以配合动态PHP服务（Fastcgi接口）
--    利用nginx可以对IP限速，可以限制连接数
--    它所具备的其他www服务特性如下：
--    支持基于名字、端口以及IP的多虚拟主机站点
--    支持rewrite模块，支持URI重写及正则表达式匹配
--    支持基于客户端IP地址和HTTP基本认证的访问控制
--    支持http响应速率限制
--    支持同一IP地址的并发连接或请求数限制
-
 #####2.4 nginx的应用场合
 -    提供静态服务（图片、视频服务、html、js、css、.flv，jpg，gif等），类似ighttpd，支持几万并发
 -    提供动态服务，nginx+fastcgi的方式运行php、jsp，动态并发：500-1500
