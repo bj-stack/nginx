@@ -23,3 +23,4 @@ tar -zxvf v1.8.31.4-beta.tar.gz
 cp 1.8.31.4.tar.gz ./ngx_pagespeed-1.8.31.4-beta 
 cd ngx_pagespeed-1.8.31.4-beta 
 tar -xzvf 1.8.31.4.tar.gz
+```
