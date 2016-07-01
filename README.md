@@ -20,12 +20,12 @@ Connection: keep-alive
 WWW-Authenticate: Basic realm="nginx basic auth for www.bjstack.com"
 ```
 
-##nginx服务从大的方面的功能
+##nginx主要功能
 - www  web服务、邮件服务、邮件代理
 - 负载均衡（反向代理proxy）
 - web cache（web缓存），相当于squid
 
-##### 2.3 nginx特点：
+##nginx特点：
 - 最大特点
 -    静态小文件（1M以下），支持高并发，同时占用的资源很少。3w并发，十个进程，内存占用150M
 -    配置简单、灵活、轻量
