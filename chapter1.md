@@ -4,8 +4,7 @@
 
 
 
-###1.基础环境：
-
+##1.基础环境：
 
 
 ```
@@ -15,7 +14,7 @@ CentOS release 6.7 (Final)
 2.6.32-573.el6.x86_64
 ```
 
-###2.yum安装nginx依赖包
+## 2.yum安装nginx依赖包
 
 - pcre：重写rewrite
 - zlib：gzip压缩
@@ -27,7 +26,7 @@ yum install pcre pcre-devel -y
 yum install zlib zlib-devel -y
 yum install openssl openssl-devel -y
 ```
-###3.pagespeed安装：
+## 3.pagespeed安装：
 
 - ngx_pagespeed插件：前端网页访问提速优化插件 
 
@@ -42,7 +41,7 @@ cd ngx_pagespeed-1.8.31.4-beta
 tar -xzvf 1.8.31.4.tar.gz
 ```
 
-###4.nginx 安装
+##4.nginx 安装
 
 ```
 useradd www -u 666 -M -s /sbin/nologin
