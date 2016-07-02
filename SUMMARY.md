@@ -8,4 +8,5 @@
    * [基础环境准备](基础环境准备.md)
    * [安装nginx依赖包](安装nginx依赖包.md)
    * [编译安装nginx](编译安装nginx.md)
+* Nginx最佳入门实践
 
