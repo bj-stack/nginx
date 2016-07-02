@@ -3,7 +3,7 @@
 * [Nginx最佳入门实践](nginxzui_jia_ru_men_shi_jian.md)
 * [nginx介绍](README.md)
    * [nginx主要功能](nginx-zhu-yao-gong-neng.md)
-   * [nginx主要特点](nginx特点.md)
+   * [nginx主要特点](nginx-te-dian.md)
    * [nginx应用场景](nginx应用场景.md)
 * [nginx安装](chapter1.md)
    * [基础环境准备](基础环境准备.md)
