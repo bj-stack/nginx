@@ -7,6 +7,6 @@
    * [nginx应用场景](nginx-ying-yong-chang-jing.md)
 * [Nginx安装](nginx-an-zhuang.md)
    * [基础环境准备](ji-chu-huan-jing-zhun-bei.md)
-   * [安装nginx依赖包](an-zhuang-nginx-yi-lai-bao.md)
+   * [安装Nginx依赖包](an-zhuang-nginx-yi-lai-bao.md)
    * [编译安装nginx](bian-yi-an-zhuang-nginx.md)
 
