@@ -1,7 +1,7 @@
 # Summary
 
 * [Nginx最佳入门实践](README.md)
-* [Nginx介绍](nginx-jie-shaomd.md)
+* [Nginx介绍](nginx-jie-shao.md)
    * [nginx主要功能](nginx-zhu-yao-gong-neng.md)
    * [nginx主要特点](nginx-te-dian.md)
    * [nginx应用场景](nginx-ying-yong-chang-jing.md)
