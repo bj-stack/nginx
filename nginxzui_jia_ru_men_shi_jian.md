@@ -1,23 +1,12 @@
-# nginx介绍
+# Nginx最佳入门实践
 
- 
-- nginx是一款www服务软件，俄罗斯人开发的开源并且性能很高，软件大小共780K左右
-- nginx本身是一个静态（html、js、css、jpg等）的www软件，不能解析动态的PHP、JSP、DO、
-淘宝更改的nginx，tengine
-- nginx使用平台：Unix、linux、Windows
-- nginx目前排名：第二位，并且上升趋势，全球约25%占比
+本书适用于具备基础 Linux 知识的 Nginx 初学者，也希望可供理解原理和实现的高级用户参考。同时，书中给出的实践案例，可供在生产直接使用，如想学习更多Nginx高级功能，欢迎联系我们(提出您宝贵的意见)。
 
-查看header
+Bjstack运维社区集合众大神编写运维知识体系。当然知识体系也会随着技术的发展不断更新，可作为运维朋友规划学习边界的一个重要依据。 欢迎关注 bjstack.com社区
+BjStack技术交流QQ 群（524721466）
+BjStack意见反馈QQ 群（524721466）
+BjStack堪错交流QQ 群（524721466
 
-```
-[root@lnmp01 application]# curl -I www.bjstack.com
-HTTP/1.1 200 OK
-Server: nginx
-Date: Fri, 01 Jul 2016 07:13:42 GMT
-Content-Type: text/html
-Content-Length: 194
-Connection: keep-alive
-WWW-Authenticate: Basic realm="nginx basic auth for www.bjstack.com"
-```
+
 
 
