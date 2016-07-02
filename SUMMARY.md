@@ -4,7 +4,7 @@
 * [nginx介绍](README.md)
    * [nginx主要功能](nginx-zhu-yao-gong-neng.md)
    * [nginx主要特点](nginx-te-dian.md)
-   * [nginx应用场景](nginx应用场景.md)
+   * [nginx应用场景](nginx-ying-yong-chang-jing.md)
 * [nginx安装](chapter1.md)
    * [基础环境准备](基础环境准备.md)
    * [安装nginx依赖包](安装nginx依赖包.md)
